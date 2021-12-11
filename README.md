@@ -1,5 +1,3 @@
 # Demo-Repo
 fin tech 101
-fin tech 101
-fin tech 101
-lasjflaksjflakjf
+this is how we git hub
